@@ -7,6 +7,16 @@ const nextConfig = {
     };
     return config;
   },
+  compiler: {
+    emotion: true
+  },
+  transpilePackages: ['@babel/preset-react'],
+  experimental: {
+    appDir: true
+  },
+  images: {
+    unoptimized: true
+  }
 };
 
 module.exports = nextConfig;
