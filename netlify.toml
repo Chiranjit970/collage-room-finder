@@ -3,7 +3,7 @@
   publish = ".next"
 
 [build.environment]
-  NODE_VERSION = "18.17.1"
+  NODE_VERSION = "18.18.0"
   NEXT_PUBLIC_FIREBASE_API_KEY = "AIZaSyAxgxxzWDI1Axk_E5tiaQaejrp3wseqXHk"
   NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN = "classroom-finder-32759.firebaseapp.com"
   NEXT_PUBLIC_FIREBASE_PROJECT_ID = "classroom-finder-32759"
